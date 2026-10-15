@@ -1,0 +1,3 @@
+# Ignore files larger than 95MB to adhere to GitHub 100MB limit
+# PC ZIP should be hosted via GitHub Releases or Cloud storage
+downloads/StealthChess_PC.zip
